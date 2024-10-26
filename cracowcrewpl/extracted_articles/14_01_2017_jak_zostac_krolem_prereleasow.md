@@ -1,0 +1,29 @@
+# Jak zostać królem Prereleasów? – poradnik do Limited
+
+January 14, 2017  
+Kategorie: Artykuły, Zasady
+
+W weekend 21-22 stycznia w Polsce będą miały miejsce pierwsze na terenie naszego kraju turnieje Prerelease. Jeśli nigdy nie brałaś lub nie brałeś w nich udziału, gorąco do tego zachęcam, gdyż jest to świetna zabawa. W tym artykule podzielę się z wami moją szeroką wiedzą płynącą z bogatego* doświadczenia w turniejach w formacie Limited (to taki który jest właśnie na Prereleasach).
+Prereleasy to turnieje, które mają miejsce kilkanaście dni przed oficjalną premierą nowego dodatku i dają graczom możliwość zdobycia nowych kart i przy okazji wzięcia udziału w mini turnieju. W cenie wpisowego (z tego, co się orientuję może się wahać między 80 a 100 złotych) każdy dostaje kilka boosterów, kartę promo (możliwe promki na zdjęciu poniżej) i zestaw 23 kart przygotowany przez dystrybutora. Następnie z tego co znajdzie się w tym pakiecie (można włożyć do talii karty z boosterków a nawet tę promkę) i dodatkowych podstawowych energii należy zbudować talię składającą się z 40 kart (nie ma limitu kart w talii, jeśli z boosterków wypadnie 5 Pikachu, możesz grać wszystkimi). Następnie gracze grają turniej zbudowanymi taliami w meczach do czterech (a nie sześciu) nagród. Proste? Mam nadzieję, że tak. Przejdźmy zatem do sedna, czyli porad.
+
+1) Tempo gry jest zupełnie inne niż w zwykłej grze.  
+Ponieważ gracze muszą złożyć najlepsze co się da z tego co im wypadło talie na turnieju Prereleasowym przypominają bardziej talie tematyczne niż te turniejowe. Ręka jest w miarę bezpieczna i można trzymać na ręku karty zamiast rzucać wszystko od razu na stół. Gra jest dużo prostsza i nierzadko można bez problemu planować na kilka tur do przodu. Rzucanie więcej niż jednej energii na stół na turę jest bardzo rzadkie i należy wziąć na to poprawkę. Ławka także jest względnie bezpiecznym miejscem i bez kart takich jak Lysandre można bez problemu oddać jakiegoś Pokemona przeciwnikowi na pożarcie, by naładować coś mocniejszego na ławce.
+
+2) Każdy Supporter jest na wagę złota.
+Przez to, że w dodatkach Trainery stanowią niewielką część uncommonów realistycznie można spodziewać się wypadnięcia 2-3 Trainerów z boosterków, które dostaniesz. Z czego może 1 to będzie Supporter. A bez Supporterów skończą się szybko karty na ręce i zostaniesz bez możliwych opcji. Jeśli w pakiecie będą jakiekolwiek Supportery dobierające karty (nawet Tierno) powinny znaleźć się w talii w pierwszej kolejności. Na jednym z prereleasów trafiłem w swoich boosterkach 2 N’y i cieszyłem się za każdym razem kiedy dostawałem jednego na rękę. Zresztą ta zasada stosuje się do każdej kart polepszającej dociąg. Nawet coś takiego jak Basic Pokemon dociągający karty (a tak się składa, że w nowym secie znajduje się Oranguru,  
+który robi dokładnie to) powinien jak najszybciej zasilić szeregi waszej talii. Podobnie sprawa ma się z Itemami. Każda wyszukiwarka, każda „piłka” powinna być wysoko na liście priorytetów podczas składania talii.
+
+3) Duże Basic Pokemony są mocne.  
+Niektóre Basic Pokemony (zwłaszcza te reprezentujące legendarne stworki) mają więcej HP i mocniejsze ataki niż te, które służą jako podstawki do ewoluowania. Ponieważ często u przeciwnika będą jakieś Basic Pokemony, które trudno będzie mu wyewoluować, takie Duże Basici mogą bez problemu zgarnąć na nich parę łatwych nagród. Patrząc na ostatni dodatek najbardziej pożądanymi kartami z tej kategorii były Hitmonchan, Mewtwo, Zapdos, czy nawet Farfetch’d. Na Prereleasach z setu Noble Victories dwa Cobaliony były sercem mojej talii, bardzo mocna okazała się też tak niepozorna karta jak Audino (50 za dwie energie to w Limited już nie przelewki, do tego 90 HP). Przegrałem tylko jedną grę z pięciu dzięki temu, że  
+przeciwniczka miała innego dużego Basica: Druddigona, który z blokadą retreatu i 100 HP okazał się godnym rywalem dla moich Basiców. W kończącej się erze Pokemonów-EX zdarzało się, że wygrywały talie 1 EX, 39 energii, ponieważ nie da się być większym Basiciem niż Pokemon-EX. Zresztą wyobraźcie sobie, że macie naprzeciwko siebie Mewtwo EX, który z tury na turę robi coraz więcej obrażeń i ma 170 HP. Na szczęście Pokemony-GX to w większości ewolucje, ale dwa Basici (Tauros GX i Lapras GX) na pewno będą bardzo silne i nie wahałbym się ani chwili z włożeniem ich do talii.
+
+4) Nie przesadzajcie z ewolucjami.  
+Ewolucje mają to do siebie, że bez wyszukiwaczek trudno je wystawić. Dlatego dużo silnych talii na Prereleasach to zazwyczaj dwie linie ewolucyjne (najlepiej jedna Stage 2, bo Pokemony Stage 2 są o wiele silniejsze niż Stage 1) i Basici do wsparcia. Więcej raczej mija się z celem, bo co nam po Dugtrio i Muku jeśli w polu mamy Pikachu? A zaskakująco trudno jest nam dobrać to co chcemy na turnieju Prereleasowym (nawet po zastosowaniu się do drugiego punktu).
+
+No i najważniejsze: dobrze się bawcie. Mecze nie będą pewnie pełne wyrafinowanych zagrań, ale mogę wam zagwarantować, że luźna atmosfera jaka panuje na tych turniejach sprawi, że będzie wesoło. A za każdym razem kiedy weźmiecie nagrodę „niegrywalnym” Pokemonem poczujecie  
+ciepło na sercu. Na chwilę obecną w wyszukiwarce turniejów na stronie pokemon.com są ogłoszone turnieje w Warszawie, Krakowie, Łodzi, Wrocławiu i Gdańsku, więc wystarczy wybrać ten najbliżej siebie i przyjść się bawić. Na profilu Cracow Crew na facebooku znajduje się link do wydarzenia krakowskiego (gdzie trwają zapisy) i z tego co wiem inne miasta też mają swoje wydarzenia. Jeśli chcecie zacząć przygodę z Pokemonami a nie macie własnych talii, taki turniej to najlepsza okazja, żeby poznać innych graczy i wkręcić się w karciankę.
+
+Do następnego, 
+Kakel
+
+*Autor tego artykułu brał udział w dwóch takich turniejach, z czego jeden miał miejsce 5 lat temu, a drugi nie był pełnoprawnym Prereleasem.
