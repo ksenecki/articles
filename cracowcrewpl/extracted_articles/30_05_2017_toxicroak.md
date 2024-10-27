@@ -79,9 +79,13 @@ Pokemon Tool: Dołącz tą kartę do jednego z Twoich Pokemonów, który nie pos
 Jeżeli Pokemon, posiadający tego Tool’a, jest Stage 1 to jego maksymalne HP wzrasta o 40.  
 Możesz zagrać dowolną liczbę kart Item w swojej turze.  
 
-Te oraz więcej kart znajdziecie na stronie pokebeach.com  
+Te oraz więcej kart znajdziecie na stronie pokebeach.com
+ 
 Źródła:    
 http://www.pokebeach.com/2017/05/meowth-from-sm3    
 http://www.pokebeach.com/2017/05/noivern-gx-from-sm3    
 http://www.pokebeach.com/2017/05/rotomdex-poke-finder-mode-from-sm3    
 http://www.pokebeach.com/2017/05/bewear-from-sm3
+http://www.pokebeach.com/2017/05/heatmor-from-sm3    
+http://www.pokebeach.com/2017/05/toxicroak-and-seviper-from-sm3    
+http://www.pokebeach.com/2017/05/muscle-dumbbells-from-sm3 
